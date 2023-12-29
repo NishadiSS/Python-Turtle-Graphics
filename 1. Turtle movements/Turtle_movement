@@ -1,0 +1,24 @@
+#forward(distance) -> Moves the turtle forward by the specified amount
+#backward(distance) -> Moves the turtle backward by the specified amount
+#right(angle) -> Turns the turtle clockwise
+#left(angle) -> Turns the turtle counterclockwise
+
+from turtle import *
+
+forward(200)
+right(120)
+forward(200)
+
+#letter 'T'
+forward (200)
+backward (100)
+right(90)
+forward(200)
+
+#letter 'N'
+right(90)
+forward(200)
+left(140)
+forward(250)
+right(140)
+forward(200)
