@@ -20,5 +20,9 @@
 #### undo, reset ,clear
 #### fill color, begin fill and end fill
 
+# Technologies Used
+Python turtle module
+
+
 
 
