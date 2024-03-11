@@ -1,6 +1,7 @@
 # Python-Turtle-Graphics
+💫Python's turtle graphics library is a fantastic tool for beginners to learn programming concepts in a visual way. It provides a simple interface to control a virtual turtle on a screen, leaving a trail as it moves. This makes creating graphics and animations interactive and engaging.💫
 
-## Table Of Contents
+## 🌟Table Of Contents🌟
 ### Turtle Designs->
 #### How to create square shape
 #### How to create Polygon Design
@@ -23,7 +24,7 @@
 # Technologies Used
 Python turtle module
 
-# U tube Video link
+# You tube Video link
 https://www.youtube.com/playlist?list=PLPndZF6XGL4vn1PjWgpgh7CRaZWxjBfe5
 
 
