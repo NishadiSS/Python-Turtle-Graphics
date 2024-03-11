@@ -12,6 +12,13 @@
 #### flower design
 
 ### Turtle Tutorial->
+#### forward, backward ,left, right
+#### penup , pendown
+#### shape and color
+#### bgcolor and title
+#### goto ,up ,down
+#### undo, reset ,clear
+#### fill color, begin fill and end fill
 
 
 
